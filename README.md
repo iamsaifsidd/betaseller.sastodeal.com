@@ -1,3 +1,3 @@
-#learnyhack.blogspot.com
+learnyhack.blogspot.com
 
-##Subdomain Takeover by iamsaifsidd
+Subdomain Takeover by iamsaifsidd
