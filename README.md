@@ -1,3 +1,1 @@
-learnyhack.blogspot.com
-
-##Subdomain Takeover by iamsaifsidd
+# info.daraz.com.np
